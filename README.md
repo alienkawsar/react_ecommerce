@@ -1,4 +1,4 @@
-Live demo: (https://kawsar-ecommerce.netlify.app/)
+# Live demo: https://kawsar-ecommerce.netlify.app/
 
 # Getting Started with Create React App
 
